@@ -1,0 +1,13 @@
+# Regenerable build inputs — see pipeline/ and README
+pipeline/tiles/
+pipeline/*.npy
+pipeline/roads*.json
+pipeline/*.dat.gz
+pipeline/peaks_computed*.json
+pipeline/all_peaks.json
+pipeline/payload.json
+pipeline/base_b64.txt
+
+.DS_Store
+__pycache__/
+*.pyc
