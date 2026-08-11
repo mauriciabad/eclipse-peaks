@@ -2,6 +2,8 @@
 
 Find where to stand for the **12 August 2026 solar eclipse at sunset** on the Costa Brava.
 
+> **Use here**: https://mauriciabad.github.io/eclipse-peaks/
+
 At maximum the Sun sits about **3.6° above the horizon at azimuth 287° (WNW)**. At that altitude
 the thing that decides whether you see it is not how high your peak is — it is whether anything
 along that one bearing is taller than 3.6° as seen from where you stand. This tool answers that
